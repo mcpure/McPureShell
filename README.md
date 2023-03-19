@@ -10,7 +10,7 @@ McPure is Cross-platform shell for Windows, Mac, Linux, etc. Allows you to quick
 | ---------------- | ------- | ------------------ |
 | Ubuntu           | 14.04   | :red_circle:       |
 |                  | 16.04   | :red_circle: \*    |
-|                  | 18.04   | :white_check_mark: |
+|                  | 18.04   | :red_circle: \*    |
 |                  | 20.04   | :white_check_mark: |
 |                  | 22.04   | :white_check_mark: |
 | Windows          | XP      | :red_circle:       |
@@ -22,3 +22,16 @@ McPure is Cross-platform shell for Windows, Mac, Linux, etc. Allows you to quick
 |                  | 11      | :white_check_mark: |
 | MeigoOS          | 9       | :red_circle: \*    |
 |                  | 10      | :white_check_mark: |
+
+## Debug console
+
+To open a debug console, simply type this command in cmd.exe:
+
+```bash
+chcp 65001
+java -jar mcpure.jar
+```
+We recommend that you also set the display to UTF-8.
+
+(Only suitable for Windows operating systems)
+
