@@ -35,3 +35,13 @@ We recommend that you also set the display to UTF-8.
 
 (Only suitable for Windows operating systems)
 
+### History of versions McPure
+
+| Date             | Version        |
+| ---------------- | -------------- |
+| 23.12.2021       | 1.0(1) Beta    |
+|                  | 1.0(2) Beta    |
+| 25.12.2021       | 1.0(3) Beta    |
+| 30.08.2022       | 1.1 Release    |
+| 19.03.2023       | 1.2.1903_01    |
+| 20.03.2023       | 1.2.2003_01    |
