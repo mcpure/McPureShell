@@ -44,11 +44,12 @@ We recommend that you also set the display to UTF-8.
 
 [![tag](https://4.vercel.app/static/tag/555/V1.2.2003_01/84bf96?icon=tag)](../../releases)
 
-| Date             | Version        | Name of update            |
-| ---------------- | -------------- | ------------------------- |
-| 23.12.2021       | 1.0(1) Beta    | "Первая версия"           |
-|                  | 1.0(2) Beta    | "Звуки и Фикс багов"      |
-| 25.12.2021       | 1.0(3) Beta    | "Внешний вид и настройки" |
-| 30.08.2022       | 1.1 Release    | "PHP Modern Edition"      |
-| 19.03.2023       | 1.2.1903_01    | prerelease                |
-| 20.03.2023       | 1.2.2003_01    | prerelease                |
+| Date             | Version        | Name of update            | Released           |
+| ---------------- | -------------- | ------------------------- | ------------------ |
+| 23.12.2021       | 1.0(1) Beta    | "Первая версия"           | :white_check_mark: |
+|                  | 1.0(2) Beta    | "Звуки и Фикс багов"      | :white_check_mark: | 
+| 25.12.2021       | 1.0(3) Beta    | "Внешний вид и настройки" | :white_check_mark: |
+| 30.08.2022       | 1.1 Release    | "PHP Modern Edition"      | :white_check_mark: |
+| 19.03.2023       | 1.2.1903_01    | "Desktop Update"          | :red_circle:       |
+| 20.03.2023       | 1.2.2003_01    | "Desktop Update"          | :red_circle:       |
+| ?.0?.2023        | 1.3            | "Installer Update"        | :red_circle:       |
