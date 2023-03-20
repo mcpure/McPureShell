@@ -4,6 +4,9 @@
 
 McPure is Cross-platform shell for Windows, Mac, Linux, etc. Allows you to quickly manipulate files and modify your desktop. This shell will give you permission to do any
 
+[![languages](https://4.vercel.app/static/language/555/php/007EC6?icon=language)](../../search?l=php)
+[![watch](https://4.vercel.app/static/watch/555/999M/28a745?icon=watch)](../../watchers)
+
 ### Supported OS for McPure
 
 | Operating System | Version | Supported          |
