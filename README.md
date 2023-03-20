@@ -1,8 +1,8 @@
 # :bird: McPure Shell (MCP)
 
 [![License: GPL v3](https://img.shields.io/github/license/pterodactyl-installer/pterodactyl-installer)](LICENSE)
-[![Downloads](https://4.vercel.app/github/downloads/yakeing/php_badge?icon=github)](../../)
-[![Size](https://4.vercel.app/github/size/yakeing/php_badge?icon=github)](src)
+[![size](https://4.vercel.app/static/size/555/622MB/b36d41?icon=size)](src/Badge.php/)
+[![download](https://4.vercel.app/static/download/555/73/a4a61d?icon=download)](../../)
 
 McPure is Cross-platform shell for Windows, Mac, Linux, etc. Allows you to quickly manipulate files and modify your desktop. This shell will give you permission to do any
 
@@ -41,6 +41,8 @@ We recommend that you also set the display to UTF-8.
 (Only suitable for Windows operating systems)
 
 ### History of versions McPure
+
+[![tag](https://4.vercel.app/static/tag/555/V1.2.2003_01/84bf96?icon=tag)](../../releases)
 
 | Date             | Version        | Name of update            |
 | ---------------- | -------------- | ------------------------- |
