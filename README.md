@@ -51,6 +51,7 @@ We recommend that you also set the display to UTF-8.
 | 25.12.2021       | 1.0(3) Beta    | "Внешний вид и настройки" |                      | :white_check_mark: | 156MB              |
 | 30.08.2022       | 1.1 Release    | "PHP Modern Edition"      |                      | :white_check_mark: | 6,22MB (installer) |
 |                  |                |                           |                      |                    | ~175 MB (shell)    |
-| 19.03.2023       | 1.2.1903_01    | "Desktop Update"          | "Desktop Update"     | :red_circle:       | ~150MB             |
-| 20.03.2023       | 1.2.2003_01    | "Desktop Update"          |                      | :red_circle:       | ~150MB             |
+| 19.03.2023       | 1.2.1903_01    | "Loading screen update"   | "Desktop Update"     | :red_circle:       | ~150MB             |
+| 20.03.2023       | 1.2.2003_01    | "Blur and Design update"  |                      | :red_circle:       | ~150MB             |
+| 20.03.2023       | 1.2.2003_01    | "Options update"          |                      | :red_circle:       | ~160MB             |
 | ?.0?.2023        | 1.3            | "Installer Update"        | "Installer Update"   | :red_circle:       | ~200MB             |
