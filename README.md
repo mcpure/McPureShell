@@ -55,6 +55,8 @@ We recommend that you also set the display to UTF-8.
 | 20.03.2023       | 1.2.2003_01    | "Blur and Design update"  |                      | :white_check_mark: | ~150MB             |
 | 21.03.2023       | 1.2.2103_01    | "Options update"          |                      | :white_check_mark: | ~160MB             |
 | 22.03.2023       | 1.2.2203_01    | "WIFI System update"      |                      | :white_check_mark: | ~165MB             |
-| 23.03.2023       | 1.2.2303_01    | "Fixing Bugs"             |                      | :red_circle:       | ~165MB             |
-| 24.03.2023       | 1.3.2403_01    | "Updating Loading Screen" | "Functional Update"  | :red_circle:       | ~170MB             |
-| ?.0?.2023        | 1.4            | "Installer Update"        | "Installer Update"   | :red_circle:       | ~200MB             |
+| 23.03.2023       | 1.2.2303_01    | "Fixing Bugs"             |                      | :white_check_mark: | ~165MB             |
+| 24.03.2023       | 1.2.2403_01    | "Updating Loading Screen" |                      | :red_circle:       | ~170MB             |
+| 24.03.2023       | 1.3.2403_01    | "Design Update"           | "Functional Update"  | :red_circle:       | ~25MB              |
+| 10.04.2023       | 1.3.1004_01    |                           | "Functional Update"  | :red_circle:       | ~25MB              |
+| 11.04.2023       | 1.3.1104_01    |                           | "Functional Update"  | :red_circle:       | ~25MB              |
